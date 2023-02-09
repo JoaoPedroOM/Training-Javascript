@@ -1,6 +1,6 @@
 # Training-Javascript
 
-## Jogo Adivinhação 
+## Jogo Adivinhação 🎯
 
 <img align ="center" alt="página inicial do jogo pedindo a entrada de um número" src="https://user-images.githubusercontent.com/63527881/217826364-205276dc-9c69-424b-93c6-576653073aa3.PNG" />   
 
