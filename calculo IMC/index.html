@@ -10,7 +10,7 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
-  <script src="./script.js" defer></script>
+  <script src="./script.js" defer type="module"></script>
 </head>
 <body>
 
@@ -28,7 +28,7 @@
         </div>
 
         <div class="input-wrapper">
-          <label for="height">Altura (m)</label>
+          <label for="height">Altura (cm)</label>
           <input id="height" type="text" placeholder="165"> 
         </div>
 
@@ -40,13 +40,13 @@
 
   <div class="modal-wrapper">
     <div class="modal card">
-      <h2 class="title"> 
+      <h3 class="title"> 
 
         <button class="close">
           <img src="./assets/close.svg" alt="botão para fechar modal"> 
         </button> 
-        Seu IMC é de 28
-      </h2>
+        <span>Seu IMC é de 28</span> 
+      </h3>
     </div>
   </div>
 

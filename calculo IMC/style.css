@@ -168,6 +168,9 @@ form button:hover{
 .modal button:hover{
   transform: scale(1.1);
 }
+.title{
+  font-size: 2.4rem;
+}
 
 /* Alert Error */
 
